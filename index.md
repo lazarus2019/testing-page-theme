@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[Go to index 2](./index2)
+[Go to index 2](/index2)
 
 You can use the [editor on GitHub](https://github.com/lazarus2019/testing-page-theme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
