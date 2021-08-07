@@ -25,6 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](https://picsum.photos/200/300)
 ```
+![Image](https://picsum.photos/200/300)
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
